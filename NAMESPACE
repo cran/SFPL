@@ -1,0 +1,8 @@
+export(sfpl)
+export(sfpl_approx)
+export(sfpl_select)
+export(data_sim)
+
+importFrom( "pracma", "hessian", "grad")
+importFrom( "gtools", "permutations")
+importFrom("stats", "nlminb", "optim", "rnorm", "runif")

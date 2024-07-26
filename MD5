@@ -1,0 +1,12 @@
+024e49a9a22196338bfffaf03a433f8a *DESCRIPTION
+a7b84e0ff9814a7d4923267dcaac0b13 *NAMESPACE
+cf1c25f1626b99067a39adea23a9feb9 *R/data_sim.R
+d2aa90b3a2b9e40b98a8f12b28ffe423 *R/sfpl.R
+138d2308857df2da3b54d2b190ce3ce4 *R/sfpl_approx.R
+337e5e99224eecf69ab19b8632851bdb *R/sfpl_select.R
+efa558b4d926325aef3a2cc66a68bc14 *data/ghana.rda
+943abae57ef4d5ddd36e216b0190390e *man/data_sim.Rd
+ca7bb3acabe70ceacfe9daa6694e82c2 *man/ghana.Rd
+1a6cb7b3c0a8cda5d5b4c77b5fb95a76 *man/sfpl.Rd
+8ead6e65862dcd9f5aa7cb23a476cd33 *man/sfpl_approx.Rd
+98dc7d8901ea765e4d63b05d217d5187 *man/sfpl_select.Rd
